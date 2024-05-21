@@ -38,7 +38,7 @@ app.layout =html.Div([
             "value": "east",
         },
         {
-            "label": html.Div(['South'], style={'colofr': 'Black', 'font-size': 25, 'display' : 'inline-block', 'font-family' : 'Verdana','width' : '10%', 'margin': 'auto', 'padding' : '10px'}),
+            "label": html.Div(['South'], style={'color': 'Black', 'font-size': 25, 'display' : 'inline-block', 'font-family' : 'Verdana','width' : '10%', 'margin': 'auto', 'padding' : '10px'}),
             "value": "south",
         },
         {
